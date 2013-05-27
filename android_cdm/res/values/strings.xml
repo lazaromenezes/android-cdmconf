@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Despesas</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="categoria">Categoria</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="salvar">Salvar</string>
+    <string name="visualizar">Despesas do Dia</string>
+    <string name="host">http://10.0.0.1:8000</string>
+    
+    <string name="mensagem_validacao">Todos os parametros são obrigatórios!</string>
+    <string name="despesa_criada">Despesa #%d criada!</string>
+    
+</resources>

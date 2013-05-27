@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:title="Nome de Usuário" android:key="username" android:dialogTitle="Nome de Usuário" android:dialogMessage="Digite o seu Nome de Usuário" />
+    <EditTextPreference android:title="Endereço HTTP do Host" android:key="host" android:dialogTitle="Host" android:dialogMessage="Endereço HTTP do Host" />
+</PreferenceScreen>
